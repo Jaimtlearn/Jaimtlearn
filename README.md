@@ -12,13 +12,13 @@
 
 - 👯 I’m looking to collaborate on **DevOps Projects**
 
-- 📝 I regularly post on [https://www.linkedin.com/in/jaimit2002/](https://www.linkedin.com/in/jaimit2002/)
-
+- 📝 I regularly post on [Linkedin](https://www.linkedin.com/in/jaimit2002/)
+ 
 - 💬 Ask me about **DevOps, AWS Cloud and Linux**
 
 - 📫 How to reach me **jaimitpatel.1432@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yvH1i1PPlEWhT2dMUNcA-G9J_ASg9wVO/view?usp=sharing](https://drive.google.com/file/d/1yvH1i1PPlEWhT2dMUNcA-G9J_ASg9wVO/view?usp=sharing)
+- 📄 Know about my experiences [Resume](tinyurl.com/JaimitDevOpsResume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
