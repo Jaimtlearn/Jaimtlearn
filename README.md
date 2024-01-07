@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **jaimitpatel.1432@gmail.com**
 
-- 📄 Know about my experiences [Resume](tinyurl.com/JaimitDevOpsResume)
+- 📄 Know about my experiences [Resume](https://tinyurl.com/JaimitDevOpsResume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
