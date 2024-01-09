@@ -1,6 +1,6 @@
 <img align="middle" alt="DevOps" width="100%" height="400" src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif">
 <h1 align="center">Hi 👋, I'm Jaimit Patel</h1>
-<h3 align="center">An aspiring DevOps/DevSecOps Engineer from Gujarat, India</h3>
+<h3 align="center">An aspiring DevOps/AWS Cloud Engineer from Gujarat, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimtlearn&label=Profile%20views&color=0e75b6&style=flat" alt="jaimtlearn" /> </p>
 
