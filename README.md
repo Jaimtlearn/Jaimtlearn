@@ -1,12 +1,12 @@
-
+<img align="middle" alt="DevOps" width="100%" height="400" src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif">
 <h1 align="center">Hi 👋, I'm Jaimit Patel</h1>
 <h3 align="center">An aspiring DevOps/DevSecOps Engineer from Gujarat, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimtlearn&label=Profile%20views&color=0e75b6&style=flat" alt="jaimtlearn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaimtlearn" alt="jaimtlearn" /></a> </p>
-<img align="right" alt="DevOps" width="400" height="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/12120458/DevOps-gifs-min.gif">
-- 🔭 I’m currently working on **Blogging Website Using Flask**
+<img align="right" alt="DevOps" width="600"  src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/12120458/DevOps-gifs-min.gif">
+- 🔭 I’m currently working on "Blogging Website Using Flask"
 
 - 🌱 I’m currently learning **Flask, Terraform and Selenium**
 
